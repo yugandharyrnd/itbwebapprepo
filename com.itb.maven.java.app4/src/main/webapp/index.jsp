@@ -9,5 +9,6 @@
     </head>
     <body>
         <h1>Hello World!....com.itb.maven.java.app4</h1>
+        <h1>Hello World!....com.itb.maven.java.app4</h1>
     </body>
 </html>
